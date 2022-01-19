@@ -154,6 +154,9 @@
     <Image Include="small.ico" />
     <Image Include="微机房管理系统.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="cursor1.cur" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
